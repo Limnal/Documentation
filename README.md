@@ -229,8 +229,11 @@ voti-tono tama voto tino *flower tono *pick.na-ma tano vona-
 ----====*----!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!====*---^-==
               -----====*--------====*-------^-==
 ```
+
+```
 Vot-tion *flower-ton *pick.na. - Kion voti-ton *pick..-taon voan. -
 You pick the flower. I see it. (That is, the event)
+```
 
 ***Anomalous structures:***
 argument after argument: first argument is overwritten. better to make compounds.
@@ -246,6 +249,9 @@ arg verb:na: same as arg arg, first argument is overwritten.
 
 # Writing systems
 The language can be written with a suitable real-world writing system (e.g. latin, cyrillic, katakana, or hebrew) or with one of systems designed for Traumae:
+
 https://fontstruct.com/fontstructors/58371/aliceffekt
+
 https://twitter.com/i/web/status/794060596777914369
+
 @heapaepaemnunea adapted Legola script for Limnal: https://merveilles.slack.com/files/heapaepaemnunea/F4DA0HA2V/img_20170306_175330.jpg
