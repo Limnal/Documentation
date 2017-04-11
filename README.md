@@ -235,6 +235,7 @@ Vot-tion *flower-ton *pick.na. - Kion voti-ton *pick..-taon voan. -
 You pick the flower. I see it. (That is, the event)
 ```
 
+
 ***Anomalous structures:***
 argument after argument: first argument is overwritten. better to make compounds.
 arg postp:no postp:no: same argument is used for different them.role. maybe desirable.  or empty argument.
