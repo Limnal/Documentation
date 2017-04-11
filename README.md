@@ -197,7 +197,7 @@ voto tin *flower toin no.*pick
 voto tini *flower to ni no *pick
 You pick the flower
 ```
-Aeth `ma`, __*Switch*___, preceded by another aeth (which usual sense is discarded), is used to switch to another map of suspended branches, primarily for subordinate clauses. Word `mam(a)` is used to return to main map:
+Aeth `ma`, __*Switch*__, preceded by another aeth (which usual sense is discarded), is used to switch to another map of suspended branches, primarily for subordinate clauses. Word `mam(a)` is used to return to main map:
 ```
 voti toin tam voto tin *flower toin no.*pick mam tain nov
 voti toni tama voto tini *flower toni no *pick mama tani no vo
